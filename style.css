@@ -1,0 +1,55 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #fff;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+button {
+    margin: 10px 0;
+    padding: 8px 14px;
+    background-color: #ffe0b2;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.curso {
+    display: inline-block;
+    margin: 8px;
+    padding: 10px 14px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: #ecf0f1;
+}
+.curso.tachado {
+    background-color: #c8e6c9;
+    text-decoration: line-through;
+}
+.curso.bloqueado {
+    background-color: #eee;
+    color: #aaa;
+    cursor: not-allowed;
+}
+.ciclo {
+    margin-top: 30px;
+    border-left: 5px solid #ccc;
+    padding-left: 15px;
+}
+:root { --color1: hsl(28, 70%, 85%); }
+:root { --color2: hsl(56, 70%, 85%); }
+:root { --color3: hsl(84, 70%, 85%); }
+:root { --color4: hsl(112, 70%, 85%); }
+:root { --color5: hsl(140, 70%, 85%); }
+:root { --color6: hsl(168, 70%, 85%); }
+:root { --color7: hsl(196, 70%, 85%); }
+:root { --color8: hsl(224, 70%, 85%); }
+:root { --color9: hsl(252, 70%, 85%); }
+:root { --color10: hsl(280, 70%, 85%); }
+:root { --color11: hsl(308, 70%, 85%); }
+:root { --color12: hsl(336, 70%, 85%); }
+:root { --color13: hsl(4, 70%, 85%); }
+:root { --color14: hsl(32, 70%, 85%); }
