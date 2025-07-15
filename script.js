@@ -313,9 +313,6 @@ const cursos = {
     prereq: ["c10_2"]
   }
 };
-
-  }
-};
 function crearMalla() {
   const contenedor = document.getElementById("malla");
   const ciclos = {};
