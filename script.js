@@ -20,6 +20,10 @@ const cursos = {
   "c3_1": { nombre: "Bioquímica", ciclo: 3, prereq: ["c2_4"] },
   "c3_3": { nombre: "Cardio", ciclo: 3, prereq: ["c2_1"] },
   "c3_4": { nombre: "Respiratorio", ciclo: 3, prereq: ["c2_1"] },
+  "c3_4": { nombre: "ingles III", ciclo: 3, prereq: ["c2_0"] },
+  "c3_4": { nombre: "Nutricion Y estilos de vida Saludable", ciclo: 3, prereq: ["c2_4"] },
+  "c3_4": { nombre: "Practica y Profesionalismo Medico II", ciclo: 3, prereq: ["c2_5"] },
+
 
   // CICLO 4
   "c4_2": { nombre: "Digestivo", ciclo: 4, prereq: ["c1_4"] },
