@@ -1,4 +1,4 @@
-
+const cursos = {
   // CICLO 1
   "c1_0": { nombre: "Atención Integral", ciclo: 1, creditos: 3 },
   "c1_1": { nombre: "Desarrollo Humano", ciclo: 1, creditos: 3 },
